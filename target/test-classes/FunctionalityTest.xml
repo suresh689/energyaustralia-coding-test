@@ -1,0 +1,29 @@
+ <!--   Mobile Execution  For Test Project
+ 
+  <parameter name="devicePort" value="7800"/>
+		  <parameter name="deviceUDID" value="ce12171c9d95a81f01"/>
+ 
+  -->
+
+	 <suite name="Sample  Automation Test Suite"  verbose="10">
+	 
+	 
+	      
+	      
+	      <parameter name="configFileName" value="AppsConfig.properties"/>
+		  <parameter name="deviceUDID" value="emulator-5554"/>
+		 
+	 
+	     
+	
+	 
+	 
+
+</suite>
+ 
+
+
+
+
+
+
